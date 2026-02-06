@@ -1,7 +1,5 @@
 # Bank-Managment-System
 
-# Portfolio Website / To-Do List App
-
 This project is built as part of the Quantum Intelligence Club recruitment task.
 
 ## Features
